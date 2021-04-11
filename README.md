@@ -11,4 +11,8 @@ I'm beginner backend developer, Student of the IT STEP Computer Academy (@itstep
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00ffff)
 ![C#](https://img.shields.io/badge/-C_%23-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
-Follow me
+### Follow me
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail)](panleonid09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/leonid-pan)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](http://t.me/panleonid09)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook)](https://www.facebook.com/leonid.pan.3)
