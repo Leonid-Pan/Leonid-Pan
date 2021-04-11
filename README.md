@@ -1,6 +1,8 @@
 [![Header](https://github.com/Leonid-Pan/Leonid-Pan/blob/main/Assets/Leonid.png)](https://github.com/Leonid-Pan)
 
-I'm beginner backend developer, Student of the IT STEP Computer Academy (@itstep.bg)
+## I'm beginner backend developer, Student of the IT STEP Computer Academy (@itstep.bg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonid-pan&show_icons=true&theme=dark)
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=52D1DC)
